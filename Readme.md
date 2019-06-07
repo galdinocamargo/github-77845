@@ -1,7 +1,7 @@
-Git Course
+Git
 
-Este é um repositório teste para ensinar como o git funciona.
+Este é um repositório teste.
 
-Saiba mais no link [credencieconsultas.com.br](http://credencieconsultas.com.br)
+link [teste.com.br](http://teste.com.br)
 
-Esta é uma nova frase
+Esta é uma nova linha.
